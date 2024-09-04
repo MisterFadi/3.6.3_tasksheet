@@ -1,8 +1,8 @@
-class Person {
+class PersonenName {
   String name;
 
   // Konstruktor
-  Person(this.name);
+  PersonenName(this.name);
 
   // Methode
   void Mensch() {
